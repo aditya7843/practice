@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started with additya
+## Getting Started with additya with omkar
 
 This project is a starting point for a Flutter application.
 
